@@ -33,7 +33,7 @@
     "elliptic": "^6.5.4",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "underscore": "^1.13.1"
+    "underscore": "^1.13.6"
   },
   "devDependencies": {
     "@types/bs58": "^4.0.1",
