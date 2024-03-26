@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "bs58": "^4.0.1",
-    "elliptic": "^6.5.4",
+    "elliptic": "^6.5.5",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "underscore": "^1.13.1"
